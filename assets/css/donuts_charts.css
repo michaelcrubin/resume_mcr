@@ -1,0 +1,48 @@
+
+.chart-container {
+    display: flex;
+    width: fit-content;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    padding: 0;
+}
+
+.labelLink {
+  color: #2c5890a1 !important;
+  font-weight: 900 !important;
+  text-decoration: none !important;
+}
+
+.labelText {
+    font-size: small !important;
+    color: grey !important;
+    font-weight: bold !important;
+    font-family: "Arial Narrow", Arial, sans-serif !important;
+}
+.margin {
+  margin-top: 5px;
+  margin-bottom: 1px;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+ 
+canvas {
+  z-index: 100;
+}
+
+.labelPercentage {
+  font-size: x-large;
+}
+ 
+.labelText {
+  font-size: small;
+  color: #CCCCCC;
+}
+ 
+.labelContainer {
+  display: block;
+  text-align: center;
+  width: 100px;
+  font-family: Helvetica;
+}
