@@ -1158,6 +1158,11 @@ section {
   justify-content: center;
   margin-top: 40px;
   margin-bottom: 40px;
+  
+
+  
+  flex-wrap: wrap;
+
 }
 
 .contact .info i {
@@ -1194,6 +1199,7 @@ section {
 .contact .info .address {
   margin-right: 30px;
   margin-left: 30px;
+  margin-top: 15px;
 }
 
 .nilo {
